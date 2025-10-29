@@ -12,7 +12,7 @@ class Maxi
    { 
      int maxi = Integer.MIN_VALUE;
 
-     for(int i=0;i<arr.length;i++)
+     cfor(int i=0;i<arr.length;i++)
      {   
        if(arr[i] > maxi)
         { 
